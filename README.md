@@ -1,13 +1,12 @@
 # NasaProject
 
 ## Description
-This project is build when i learned Nodejs course on Udemy. We use https://github.com/arwes/arwes to setup UI of app, use SpaceX Rest API to get space mission data. Our work is build back-end for this app.
+Nasaproject is full-stack web application. It allow user to manage nasa mission universe.
+
+We use https://github.com/arwes/arwes to setup app UI. We build app back-end from scrash using NodeJS, Express, and MongoDB. We get nasa mission data from SpaceX Rest API.
 
 ## Use
 
 You need to run ```npm intall``` first to install all dependency for this app
 
 Next, Run```npm run deploy``` to use it.
-
-## Nodejs Course
-https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/
